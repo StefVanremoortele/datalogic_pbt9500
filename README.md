@@ -1,3 +1,3 @@
 # datalogic_pbt9500
 
-This is a python module that works with datalogic pbt9500 handscanner used for image capture
+This python module takes care of two-way communications with the datalogic pbt9500 which is used for image capture
